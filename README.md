@@ -4,7 +4,7 @@ Fcm for Golang
 ## Usage
 
 ```shell
-go get github.com/NaySoftware/go-fcm
+go get github.com/swxctx/fcm
 ```
 
 ## Doc
